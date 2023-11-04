@@ -4,6 +4,9 @@
 Autor: Jordi Rodriguez & Llorenç Marin  
 Practica de representacion de señales de Arduino en Osciloscopio  
 Texto y logo Instituto Anna Gironella de Mundet
+  
+  
+![Imagen conexiones](Osciloscopio.jpg)  
 
 
 *** Material utilizado ***
