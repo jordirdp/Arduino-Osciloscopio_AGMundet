@@ -1,22 +1,21 @@
 # AG_Mundet
- Texto en Osciloscopio
+🔗Creado por [Jordi Rodriguez](https://github.com/jordirdp) & Llorenç Marin
 
-Autor: Jordi Rodriguez & Llorenç Marin  
-Practica de representacion de señales de Arduino en Osciloscopio  
-Texto y logo Instituto Anna Gironella de Mundet
+👨🏻‍💻Práctica de **representacion de señales en un Osciloscopio** utilizando Arduino  
+
+### Software  
+- Programado con [Arduino](https://www.arduino.cc/en/software)
+- Se ha utilizado PWM Prescaler para modificar la frecuencia del Timer 0  
+- Este código realiza las siguientes funciones:  
+-- Dibuja texto y logo Instituto Anna Gironella de Mundet  
   
-  
-![Imagen conexiones](Osciloscopio.jpg)  
-
-
-*** Material utilizado ***
-
-- Arduino UNO R.3
-- Potenciometro 
+### Hardware  
+- Arduino UNO  
+- Potenciómetro
 - Osciloscopio
-  
 
-*** Pines de conexion ***
-  
-D5-= Coordenada Y de Osciloscopio  
-D6-= Coordenada X de Osciloscopio 
+### Montaje  
+![Imagen conexiones](/Images/Osciloscopio.jpg)  
+Conexiones a pines Arduino UNO:  
+- D05-= Coordenada Y de Osciloscopio  
+- D06-= Coordenada X de Osciloscopio  
